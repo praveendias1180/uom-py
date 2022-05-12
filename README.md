@@ -9,3 +9,7 @@ https://uom.lk/itfac/departments/department-of-information-technology
 # Python
 
 ![UOM Python](uom-python.png)
+
+# Immutability of Numbers
+
+![Immutability](immutability.png)
