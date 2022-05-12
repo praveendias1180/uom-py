@@ -9,3 +9,7 @@ print(type(y))
 z = "abc" + 'def'
 print(z)
 print(type(z))
+
+c = 10 > 5
+print(c)
+print(type(c))
