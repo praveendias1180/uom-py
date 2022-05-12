@@ -19,7 +19,12 @@ for i in range(2,4):
     a=a+i
 print(a)
 
-num = int(input("Enter your number: "))
-while (num != 0):
-    print("Hello Praveen")
-    num -= 1
+# num = int(input("Enter your number: "))
+# while (num != 0):
+#     print("Hello Praveen")
+#     num -= 1
+
+for i in range(-2, 3):
+    if(i == 0):
+        continue
+    print(5.0/i)
