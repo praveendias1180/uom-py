@@ -17,3 +17,7 @@ values.remove(200)
 del values[0]
 
 print(values)
+
+val = ["hi", "praveen"]
+
+print(val * 4)
