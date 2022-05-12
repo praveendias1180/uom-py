@@ -5,3 +5,7 @@
 # University of Moratuwa
 
 ![UoM](uom-logo.png)
+
+https://uom.lk/itfac/departments/department-of-information-technology
+
+![UoM Course](uom.png)
