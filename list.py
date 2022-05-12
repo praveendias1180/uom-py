@@ -10,4 +10,10 @@ print(values[1:3])
 
 values.append(60)
 
+values[0] = 200
+
+values.remove(200)
+
+del values[0]
+
 print(values)
