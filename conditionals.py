@@ -1,4 +1,4 @@
-time = 13
+time = 9
 
 if time < 12:
     print ("It's not 12 yet!")
@@ -8,3 +8,9 @@ if time > 12:
     print("Good afternoon!")
 
 print("Have a good day!")
+print("....................")
+
+if time < 12:
+    print("Good morning")
+else:
+    print("Good afternoon!")
