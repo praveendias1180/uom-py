@@ -8,5 +8,5 @@ for item in [1, 3, 5, 7]:
 
 print('--------------------------------')
 
-for item in list(range(2,20, 3)):
+for item in range(2,20, 3):
     print(item)
