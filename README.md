@@ -12,4 +12,4 @@ https://uom.lk/itfac/departments/department-of-information-technology
 
 # Immutability of Numbers
 
-![Immutability](immutability.png)
+![Immutability](immer.png.png)
