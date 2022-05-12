@@ -21,3 +21,8 @@ print(values)
 val = ["hi", "praveen"]
 
 print(val * 4)
+
+print("praveen" in val)
+
+for x in val:
+    print("val is " + x)
