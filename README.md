@@ -4,6 +4,10 @@
 
 https://uom.lk/itfac/departments/department-of-information-technology
 
+# The Certificate
+
+![Certificate](python-cert.png)
+
 ![UoM Course](uom.png)
 
 # Python
