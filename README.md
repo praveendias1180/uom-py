@@ -45,3 +45,7 @@ https://uom.lk/itfac/departments/department-of-information-technology
 - Software Architect
 - UX Designer
 - QA Engineer
+
+# Sri Lanka IT Industry
+
+![IT Industry](industry.png)
