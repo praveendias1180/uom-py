@@ -34,4 +34,14 @@ https://uom.lk/itfac/departments/department-of-information-technology
 ![MatPotLib](matplotlib.png)
 
 
-## Pandas, SciKit Learn, TensorFlow
+## Pandas, SciKit Learn, TensorFlowh
+
+# Roles in Software Development
+
+- Product Owner
+- Engineering Manager
+- Business Analysts
+- Software Engineers
+- Software Architect
+- UX Designer
+- QA Engineer
