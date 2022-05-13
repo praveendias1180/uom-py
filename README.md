@@ -28,3 +28,7 @@ https://uom.lk/itfac/departments/department-of-information-technology
 # SciPy
 
 ![SciPy](scipy.png)
+
+# MatPotLib
+
+![MatPotLib](matplotlib.png)
