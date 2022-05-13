@@ -13,3 +13,8 @@ https://uom.lk/itfac/departments/department-of-information-technology
 # Immutability of Numbers
 
 ![Immutability](immer.png)
+
+# Common GUI Libraries
+
+- PyQT5
+- Tkinter
