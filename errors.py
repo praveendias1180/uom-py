@@ -1,1 +1,4 @@
-import new_module
+try:
+    print(int('hello'))
+except:
+    print('Some error')
