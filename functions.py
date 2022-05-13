@@ -8,4 +8,10 @@ def printme(str):
 printme("Praveen")
 
 
+def greet(name):
+    print("Hello, " + name)
+
+greet("Nimal")
+
+
 print(y)
