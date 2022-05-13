@@ -1,1 +1,1 @@
-print(int('hello'))
+import new_module
