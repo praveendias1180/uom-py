@@ -20,3 +20,11 @@ https://uom.lk/itfac/departments/department-of-information-technology
 - Tkinter
 
 ![Tkinter](tkinter.png)
+
+# Numpy
+
+![Numpy](numpy.png)
+
+# SciPy
+
+![SciPy](scipy.png)
