@@ -1,2 +1,2 @@
-num = [2, 3, 4]
-print(num[10])
+star_name = 'colin' + 1
+print(star_name)
